@@ -137,7 +137,7 @@ PhungDangTruong_SE19B2_A01.sln
 - **Môn học**: PRN212 - Programming with C# and .NET Framework
 - **Assignment**: Assignment 01 - WPF + LINQ
 - **Sinh viên**: Phung Dang Truong - SE19B2
-- **Giảng viên**: [Tên giảng viên]
+- **Giảng viên**: Nguyễn Quang Duy
 
 ---
 **Lưu ý**: Dự án này được phát triển theo yêu cầu của Assignment 01, sử dụng In-Memory Database và không kết nối với cơ sở dữ liệu thật.
