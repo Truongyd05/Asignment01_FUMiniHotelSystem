@@ -136,7 +136,7 @@ PhungDangTruong_SE19B2_A01.sln
 ## 🎓 Thông tin dự án
 - **Môn học**: PRN212 - Programming with C# and .NET Framework
 - **Assignment**: Assignment 01 - WPF + LINQ
-- **Sinh viên**: Phung Dang Truong - SE19B2
+- **Sinh viên**: Phung Dang Truong - SE19B.Net
 - **Giảng viên**: Nguyễn Quang Duy
 
 ---
